@@ -34,7 +34,7 @@ Chatterly is a Flutter-based AI chat application designed to provide smart conve
 
 ## 📄 Synopsis Report
 👉 **Synopsis PDF:**  
-https://raw.githubusercontent.com/himanshu0x0/chatterly/main/docs/Synopsis_Chatterly.pdf
+https://raw.githubusercontent.com/himanshu0x0/chatterly/main/docs/synopsis.pdf
 
 ## 📊 Dataset
 👉 **Dataset File:**  
