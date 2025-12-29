@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Explain Flutter framework",
+    "type": "education"
+  },
+  {
+    "prompt": "Translate Hello into Hindi",
+    "type": "translation"
+  },
+  {
+    "prompt": "Generate a motivational quote",
+    "type": "content"
+  },
+  {
+    "prompt": "Create an image prompt for sunset",
+    "type": "image"
+  }
+]
