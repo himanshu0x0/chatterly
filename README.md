@@ -1,16 +1,46 @@
-# chatterly
+# Chatterly 🤖💬
 
-A new Flutter project.
+Chatterly is a Flutter-based AI chat application designed to provide smart conversational responses, content generation, and an interactive user experience.
 
-## Getting Started
+## 🔹 Project Details
+- **Project Name:** Chatterly
+- **Technology:** Flutter, Dart
+- **Platform:** Android / iOS / Web
+- **Developer:** Himanshu Gautam
 
-This project is a starting point for a Flutter application.
+## 📄 Synopsis Report
+👉 **Synopsis PDF:**  
+# Chatterly 🤖💬
 
-A few resources to get you started if this is your first Flutter project:
+Chatterly is a Flutter-based AI chat application designed to provide smart conversational responses, content generation, and an interactive user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔹 Project Details
+- **Project Name:** Chatterly
+- **Technology:** Flutter, Dart
+- **Platform:** Android / iOS / Web
+- **Developer:** Himanshu Gautam
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 Synopsis Report
+👉 **Synopsis PDF:**  
+# Chatterly 🤖💬
+
+Chatterly is a Flutter-based AI chat application designed to provide smart conversational responses, content generation, and an interactive user experience.
+
+## 🔹 Project Details
+- **Project Name:** Chatterly
+- **Technology:** Flutter, Dart
+- **Platform:** Android / iOS / Web
+- **Developer:** Himanshu Gautam
+
+## 📄 Synopsis Report
+👉 **Synopsis PDF:**  
+https://raw.githubusercontent.com/himanshu0x0/chatterly/main/docs/Synopsis_Chatterly.pdf
+
+## 📊 Dataset
+👉 **Dataset File:**  
+https://raw.githubusercontent.com/himanshu0x0/chatterly/main/lib/dataset.json
+
+## 🚀 How to Run the Project
+```bash
+flutter pub get
+flutter run
